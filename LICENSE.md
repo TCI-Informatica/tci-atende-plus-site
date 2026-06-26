@@ -46,7 +46,7 @@ Qualquer uso fora do escopo interno ou previamente autorizado deve ser solicitad
 
 ---
 
-**Projeto:** `tci-atende-plus-site`
-**Tipo de licença:** Proprietária / Uso Restrito
-**Titular:** TCI Informática
+**Projeto:** `tci-atende-plus-site` <br>
+**Tipo de licença:** Proprietária / Uso Restrito <br>
+**Titular:** TCI Informática <br>
 **Ano:** 2026
